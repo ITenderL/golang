@@ -18,4 +18,8 @@
 
 /.idea/*.xml
 /.idea
+*/.idea/
+*/*/.idea/
+
+
 
